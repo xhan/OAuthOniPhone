@@ -1,0 +1,759 @@
+TOAuthOniPhone
+v7
+r0
+t296048816.334814
+cCheck dependencies
+cProcessInfoPlistFile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/Info.plist OAuthOniPhone-Info.plist
+cCompileXIB /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/MainWindow.xib
+cCompileXIB /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhoneViewController.xib
+cProcessPCH /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch.gch OAuthOniPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-exlegxgrxzyvfggvbgpblcjpwjoh/OAuthOniPhone_Prefix.pch.gch OAuthOniPhone_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/main.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneAppDelegate.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneViewController.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAConsumer.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAConsumer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAMutableURLRequest.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAMutableURLRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAHMAC_SHA1SignatureProvider.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAHMAC_SHA1SignatureProvider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAPlaintextSignatureProvider.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAPlaintextSignatureProvider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OARequestParameter.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OARequestParameter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAServiceTicket.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAServiceTicket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OADataFetcher.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OADataFetcher.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAAsynchronousDataFetcher.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAAsynchronousDataFetcher.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken_KeychainExtensions.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSString+URLEncoding.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSString+URLEncoding.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSMutableURLRequest+Parameters.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSMutableURLRequest+Parameters.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSURL+Base.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSURL+Base.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/Base64Transcoder.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Crypto/Base64Transcoder.c normal i386 c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BF3E9F90000000000000132
+t1274276345
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BEA386B000000000027C7D0
+t1273641067
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BEA38EA000000000029D430
+t1273641194
+s2741296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BEA38DC0000000000001466
+t1273641180
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004BEA37FE00000000000004F5
+t1273640958
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BEA514400000000000009CD
+t1273647428
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BEA52440000000001D44C30
+t1273647684
+s30690352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004A11E8210000000000000DE2
+t1242687521
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
+c000000004A1198340000000000000644
+t1242667060
+s1604
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneAppDelegate.h
+c000000004BF51C8500000000000001F3
+t1274354821
+s499
+i<UIKit/UIKit.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneAppDelegate.m
+c000000004BF51C850000000000000A99
+t1274354821
+s2713
+i"OAuthOniPhoneAppDelegate.h"
+i"OAuthOniPhoneViewController.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneViewController.h
+c000000004BF51C8500000000000000F0
+t1274354821
+s240
+i<UIKit/UIKit.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneViewController.m
+c000000004BF51C8500000000000005C1
+t1274354821
+s1473
+i"OAuthOniPhoneViewController.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Crypto/Base64Transcoder.c
+c000000004BF4BC48000000000000244A
+t1274330184
+s9290
+i"Base64Transcoder.h"
+i<math.h>
+i<string.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Crypto/Base64Transcoder.h
+c000000004BF4BC480000000000000689
+t1274330184
+s1673
+i<stdlib.h>
+i<stdbool.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/MainWindow.xib
+c000000004BF51C850000000000004E71
+t1274354821
+s20081
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSMutableURLRequest+Parameters.h
+c000000004BF4BC4B00000000000005AB
+t1274330187
+s1451
+i<Foundation/Foundation.h>
+i"OARequestParameter.h"
+i"NSURL+Base.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSMutableURLRequest+Parameters.m
+c000000004BF4BC4B0000000000000EC3
+t1274330187
+s3779
+i"NSMutableURLRequest+Parameters.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSString+URLEncoding.h
+c000000004BF4BC4B000000000000055D
+t1274330187
+s1373
+i<Foundation/Foundation.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSString+URLEncoding.m
+c000000004BF4BC4B0000000000000850
+t1274330187
+s2128
+i"NSString+URLEncoding.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSURL+Base.h
+c000000004BF4BC4B0000000000000540
+t1274330187
+s1344
+i<Foundation/Foundation.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSURL+Base.m
+c000000004BF4BC4B00000000000005B1
+t1274330187
+s1457
+i"NSURL+Base.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAAsynchronousDataFetcher.h
+c000000004BF4BC4B0000000000000746
+t1274330187
+s1862
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAAsynchronousDataFetcher.m
+c000000004BF4BC4B0000000000000FDC
+t1274330187
+s4060
+i"OAAsynchronousDataFetcher.h"
+i"OAServiceTicket.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAConsumer.h
+c000000004BF4BC4B00000000000005CF
+t1274330187
+s1487
+i<Foundation/Foundation.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAConsumer.m
+c000000004BF4BC4B000000000000061A
+t1274330187
+s1562
+i"OAConsumer.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OADataFetcher.h
+c000000004BF4BC4B00000000000006D6
+t1274330187
+s1750
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+i"OAServiceTicket.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OADataFetcher.m
+c000000004BF4BC4B0000000000000AB3
+t1274330187
+s2739
+i"OADataFetcher.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAHMAC_SHA1SignatureProvider.h
+c000000004BF4BC4B0000000000000573
+t1274330187
+s1395
+i<Foundation/Foundation.h>
+i"OASignatureProviding.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAHMAC_SHA1SignatureProvider.m
+c000000004BF4BC4B00000000000008C1
+t1274330187
+s2241
+i"OAHMAC_SHA1SignatureProvider.h"
+i<CommonCrypto/CommonHMAC.h>
+i"Base64Transcoder.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAMutableURLRequest.h
+c000000004BF4BC4B0000000000000978
+t1274330187
+s2424
+i<Foundation/Foundation.h>
+i"OAConsumer.h"
+i"OAToken.h"
+i"OAHMAC_SHA1SignatureProvider.h"
+i"OASignatureProviding.h"
+i"NSMutableURLRequest+Parameters.h"
+i"NSURL+Base.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAMutableURLRequest.m
+c000000004BF4BC4B0000000000001FAE
+t1274330187
+s8110
+i"OAMutableURLRequest.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAPlaintextSignatureProvider.h
+c000000004BF4BC4B0000000000000572
+t1274330187
+s1394
+i<Foundation/Foundation.h>
+i"OASignatureProviding.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAPlaintextSignatureProvider.m
+c000000004BF4BC4B00000000000005F4
+t1274330187
+s1524
+i"OAPlaintextSignatureProvider.h"
+i"NSString+URLEncoding.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OARequestParameter.h
+c000000004BF4BC4B00000000000006B5
+t1274330187
+s1717
+i<Foundation/Foundation.h>
+i"NSString+URLEncoding.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OARequestParameter.m
+c000000004BF4BC4B00000000000007ED
+t1274330187
+s2029
+i"OARequestParameter.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAServiceTicket.h
+c000000004BF4BC4B0000000000000695
+t1274330187
+s1685
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAServiceTicket.m
+c000000004BF4BC4B0000000000000692
+t1274330187
+s1682
+i"OAServiceTicket.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OASignatureProviding.h
+c000000004BF4BC4B000000000000057A
+t1274330187
+s1402
+i<Foundation/Foundation.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken.h
+c000000004BF4BC4B00000000000006BD
+t1274330187
+s1725
+i<Foundation/Foundation.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken.m
+c000000004BF4BC4B0000000000000CF2
+t1274330187
+s3314
+i"OAToken.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.h
+c000000004BF4BC4B0000000000000247
+t1274330187
+s583
+i"OAToken.h"
+i<Security/Security.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m
+c000000004BF4BC4B0000000000000C6D
+t1274330187
+s3181
+i"OAToken_KeychainExtensions.h"
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhoneViewController.xib
+c000000004BF51C850000000000001A5D
+t1274354821
+s6749
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhone_Prefix.pch
+c000000004BF51C8500000000000000C3
+t1274354821
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app
+t2
+s0
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app.dSYM
+t2
+s0
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/Info.plist
+t1274356005
+s615
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/MainWindow.nib
+t1274356011
+s1135
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/OAuthOniPhone
+t2
+s0
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/OAuthOniPhoneViewController.nib
+t1274356011
+s795
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/PkgInfo
+t1274356005
+s8
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/Base64Transcoder.o
+t1274356016
+s8488
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSMutableURLRequest+Parameters.o
+t1274356016
+s14268
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSString+URLEncoding.o
+t1274356016
+s8416
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSURL+Base.o
+t1274356016
+s6932
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAAsynchronousDataFetcher.o
+t1274356016
+s19412
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAConsumer.o
+t1274356015
+s9996
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OADataFetcher.o
+t1274356015
+s12072
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAHMAC_SHA1SignatureProvider.o
+t1274356015
+s11980
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAMutableURLRequest.o
+t1274356015
+s28220
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAPlaintextSignatureProvider.o
+t1274356015
+s8604
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OARequestParameter.o
+t1274356015
+s13708
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAServiceTicket.o
+t1274356015
+s12480
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken.o
+t1274356015
+s17556
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken_KeychainExtensions.o
+t2
+s0
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhone.LinkFileList
+c000000004BF521250000000000000C24
+t1274356005
+s3108
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneAppDelegate.o
+t1274356015
+s48096
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneViewController.o
+t1274356015
+s34592
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/main.o
+t1274356015
+s6372
+
+N/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/main.m
+c000000004BF51C85000000000000015F
+t1274354821
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-exlegxgrxzyvfggvbgpblcjpwjoh/OAuthOniPhone_Prefix.pch.gch
+t1274356012
+s2138480
+
+N/var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch.gch
+t1274356014
+s15199248
+
+NOAuthOniPhone-Info.plist
+c000000004BF51C85000000000000038D
+t1274354821
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296048805#296048805#0(0"0(0#1#0"8648947168#0"0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/Base64Transcoder.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Crypto/Base64Transcoder.c normal i386 c com.apple.compilers.gcc.4_2
+s296048816.148077
+e296048816.334722
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/Base64Transcoder.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Crypto/Base64Transcoder.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Crypto/Base64Transcoder.c296048816#296048816#0(0"0(0#0#98"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Crypto/Base64Transcoder.c8645030432#2372"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-exlegxgrxzyvfggvbgpblcjpwjoh/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Crypto/Base64Transcoder.c -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/Base64Transcoder.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSMutableURLRequest+Parameters.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSMutableURLRequest+Parameters.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048816.042988
+e296048816.147922
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSMutableURLRequest+Parameters.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSMutableURLRequest+Parameters.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSMutableURLRequest+Parameters.m296048816#296048816#0(0"0(0#0#105"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSMutableURLRequest+Parameters.m8648362176#2447"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSMutableURLRequest+Parameters.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSMutableURLRequest+Parameters.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSString+URLEncoding.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSString+URLEncoding.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048816.012598
+e296048816.093837
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSString+URLEncoding.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSString+URLEncoding.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSString+URLEncoding.m296048816#296048816#0(0"0(0#0#95"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSString+URLEncoding.m8649315232#2427"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSString+URLEncoding.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSString+URLEncoding.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSURL+Base.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSURL+Base.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048816.094007
+e296048816.178850
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSURL+Base.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSURL+Base.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSURL+Base.m296048816#296048816#0(0"0(0#0#85"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSURL+Base.m8647305472#2407"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/NSURL+Base.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/NSURL+Base.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAAsynchronousDataFetcher.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAAsynchronousDataFetcher.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.887781
+e296048816.042867
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAAsynchronousDataFetcher.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAAsynchronousDataFetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAAsynchronousDataFetcher.m296048815#296048816#0(0"0(0#0#100"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAAsynchronousDataFetcher.m8648651040#2437"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAAsynchronousDataFetcher.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAAsynchronousDataFetcher.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAConsumer.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAConsumer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.480789
+e296048815.596498
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAConsumer.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAConsumer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAConsumer.m296048815#296048815#0(0"0(0#0#85"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAConsumer.m8619866784#2407"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAConsumer.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAConsumer.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OADataFetcher.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OADataFetcher.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.818920
+e296048815.917672
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OADataFetcher.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OADataFetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OADataFetcher.m296048815#296048815#0(0"0(0#0#88"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OADataFetcher.m8650384320#2413"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OADataFetcher.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OADataFetcher.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAHMAC_SHA1SignatureProvider.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAHMAC_SHA1SignatureProvider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.596620
+e296048815.687438
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAHMAC_SHA1SignatureProvider.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAHMAC_SHA1SignatureProvider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAHMAC_SHA1SignatureProvider.m296048815#296048815#0(0"0(0#0#103"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAHMAC_SHA1SignatureProvider.m8634059104#2443"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAHMAC_SHA1SignatureProvider.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAHMAC_SHA1SignatureProvider.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAMutableURLRequest.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAMutableURLRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.510473
+e296048815.695032
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAMutableURLRequest.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAMutableURLRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAMutableURLRequest.m296048815#296048815#0(0"0(0#0#94"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAMutableURLRequest.m8644723712#2425"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAMutableURLRequest.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAMutableURLRequest.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAPlaintextSignatureProvider.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAPlaintextSignatureProvider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.687557
+e296048815.796129
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAPlaintextSignatureProvider.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAPlaintextSignatureProvider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAPlaintextSignatureProvider.m296048815#296048815#0(0"0(0#0#103"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAPlaintextSignatureProvider.m8604843232#2443"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAPlaintextSignatureProvider.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAPlaintextSignatureProvider.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OARequestParameter.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OARequestParameter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.695151
+e296048815.818805
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OARequestParameter.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OARequestParameter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OARequestParameter.m296048815#296048815#0(0"0(0#0#93"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OARequestParameter.m8647753536#2423"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OARequestParameter.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OARequestParameter.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAServiceTicket.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAServiceTicket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.796260
+e296048815.887654
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAServiceTicket.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAServiceTicket.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAServiceTicket.m296048815#296048815#0(0"0(0#0#90"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAServiceTicket.m8653772928#2417"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAServiceTicket.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAServiceTicket.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.389745
+e296048815.510350
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken.m296048815#296048815#0(0"0(0#0#82"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken.m8647401600#2401"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken_KeychainExtensions.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.917799
+e296048816.012478
+r0
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken_KeychainExtensions.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:9:
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.h:17: error: expected ')' before 'SecKeychainRef'
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m: In function '-[OAToken(OAToken_KeychainExtensions) initWithKeychainUsingAppName:serviceProviderName:]':
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:16: error: 'SecKeychainItemRef' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:16: error: (Each undeclared identifier is reported only once
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:16: error: for each function it appears in.)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:16: error: expected ';' before 'item'
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:18: warning: implicit declaration of function 'SecKeychainFindGenericPassword'
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:25: error: 'item' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:33: error: 'SecKeychainAttribute' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:33: error: expected ';' before 'attributes'
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:34: error: 'SecKeychainAttributeList' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:34: error: expected ';' before 'list'
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:36: error: 'attributes' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:36: error: 'kSecAccountItemAttr' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:37: error: 'kSecDescriptionItemAttr' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:38: error: 'kSecLabelItemAttr' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:39: error: 'kSecModDateItemAttr' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:41: error: 'list' undeclared (first use in this function)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:44: warning: implicit declaration of function 'SecKeychainItemCopyContent'
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:48: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:389)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:58: warning: 'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:61: warning: implicit declaration of function 'SecKeychainItemFreeContent'
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m: At top level:
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:80: error: expected ')' before 'SecKeychainRef'
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m: In function '-[OAToken(OAToken_KeychainExtensions) storeInKeychain:appName:serviceProviderName:]':
+o/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:82: warning: implicit declaration of function 'SecKeychainAddGenericPassword'
+lSLF07#2@109"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296048815#296048816#0(4765"In file included from /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:9:/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.h:17: error: expected ')' before 'SecKeychainRef'/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m: In function '-[OAToken(OAToken_KeychainExtensions) initWithKeychainUsingAppName:serviceProviderName:]':/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:16: error: 'SecKeychainItemRef' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:16: error: (Each undeclared identifier is reported only once/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:16: error: for each function it appears in.)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:16: error: expected ';' before 'item'/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:18: warning: implicit declaration of function 'SecKeychainFindGenericPassword'/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:25: error: 'item' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:33: error: 'SecKeychainAttribute' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:33: error: expected ';' before 'attributes'/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:34: error: 'SecKeychainAttributeList' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:34: error: expected ';' before 'list'/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:36: error: 'attributes' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:36: error: 'kSecAccountItemAttr' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:37: error: 'kSecDescriptionItemAttr' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:38: error: 'kSecLabelItemAttr' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:39: error: 'kSecModDateItemAttr' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:41: error: 'list' undeclared (first use in this function)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:44: warning: implicit declaration of function 'SecKeychainItemCopyContent'/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:48: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:389)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:58: warning: 'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:61: warning: implicit declaration of function 'SecKeychainItemFreeContent'/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m: At top level:/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:80: error: expected ')' before 'SecKeychainRef'/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m: In function '-[OAToken(OAToken_KeychainExtensions) storeInKeychain:appName:serviceProviderName:]':/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m:82: warning: implicit declaration of function 'SecKeychainAddGenericPassword'22(4@36"Expected ')' before 'SecKeychainRef'296048815#127#150#2(7@123"In file included from /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296048815#18446744073709551615#0#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#9#0#9#0#0"0(13@141"Expected ')' before 'SecKeychainRef' in /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.h296048815#18446744073709551615#0#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.h296022987#17#0#17#0#0"0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.h296022987#17#0#17#0#19"expected * before *0(4@60"'SecKeychainItemRef' undeclared (first use in this function)296048815#484#174#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#16#0#16#0#43"'*' undeclared (first use in this function)0(4@26"Expected ';' before 'item'296048815#968#140#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#16#0#16#0#19"expected * before *0(22@65"Implicit declaration of function 'SecKeychainFindGenericPassword'296048815#1108#181#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#18#0#18#0#36"implicit declaration of function '*'0(4@46"'item' undeclared (first use in this function)296048815#1289#160#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#25#0#25#0#43"'*' undeclared (first use in this function)0(4@62"'SecKeychainAttribute' undeclared (first use in this function)296048815#1449#176#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#33#0#33#0#43"'*' undeclared (first use in this function)0(4@32"Expected ';' before 'attributes'296048815#1625#146#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#33#0#33#0#19"expected * before *0(4@66"'SecKeychainAttributeList' undeclared (first use in this function)296048815#1771#180#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#34#0#34#0#43"'*' undeclared (first use in this function)0(4@26"Expected ';' before 'list'296048815#1951#140#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#34#0#34#0#19"expected * before *0(4@52"'attributes' undeclared (first use in this function)296048815#2091#166#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#36#0#36#0#43"'*' undeclared (first use in this function)0(4@61"'kSecAccountItemAttr' undeclared (first use in this function)296048815#2257#175#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#36#0#36#0#43"'*' undeclared (first use in this function)0(4@65"'kSecDescriptionItemAttr' undeclared (first use in this function)296048815#2432#179#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#37#0#37#0#43"'*' undeclared (first use in this function)0(4@59"'kSecLabelItemAttr' undeclared (first use in this function)296048815#2611#173#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#38#0#38#0#43"'*' undeclared (first use in this function)0(4@61"'kSecModDateItemAttr' undeclared (first use in this function)296048815#2784#175#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#39#0#39#0#43"'*' undeclared (first use in this function)0(4@46"'list' undeclared (first use in this function)296048815#2959#160#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#41#0#41#0#43"'*' undeclared (first use in this function)0(22@61"Implicit declaration of function 'SecKeychainItemCopyContent'296048815#3119#177#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#44#0#44#0#36"implicit declaration of function '*'0(22@209"'stringWithCString:length:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:389)296048815#3296#325#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#48#0#48#0#33"'*' is deprecated (declared at *)0(22@202"'stringWithCString:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:390)296048815#3621#318#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#58#0#58#0#33"'*' is deprecated (declared at *)0(22@61"Implicit declaration of function 'SecKeychainItemFreeContent'296048815#3939#177#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#61#0#61#0#36"implicit declaration of function '*'0(23@13"At top level:296048815#4116#117#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#0#0#0#0#0"0(4@36"Expected ')' before 'SecKeychainRef'296048815#4233#150#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#80#0#80#0#19"expected * before *0(22@64"Implicit declaration of function 'SecKeychainAddGenericPassword'296048815#4585#180#0(6@101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m296022987#82#0#82#0#36"implicit declaration of function '*'0(0#0#101"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m8647461920#2439"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAToken_KeychainExtensions.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAToken_KeychainExtensions.o1#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneAppDelegate.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.125825
+e296048815.389653
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneAppDelegate.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneAppDelegate.m296048815#296048815#0(0"0(0#0#107"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneAppDelegate.m8650548960#2443"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneAppDelegate.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneAppDelegate.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneViewController.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.388336
+e296048815.480664
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneViewController.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneViewController.m296048815#296048815#0(0"0(0#0#110"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneViewController.m8653502912#2449"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/Classes/OAuthOniPhoneViewController.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/OAuthOniPhoneViewController.o0#
+
+CCompileC build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/main.o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048815.124560
+e296048815.388222
+r1
+xCompileC
+xbuild/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/main.o
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/main.m296048815#296048815#0(0"0(0#0#79"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/main.m8653560672#2395"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -include /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/main.m -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/MainWindow.xib
+s296048805.844493
+e296048811.049639
+r1
+xCompileXIB
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib296048805#296048811#0(0"0(0#0#87"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/MainWindow.xib8648391136#678"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/MainWindow.nib /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhoneViewController.xib
+s296048805.928243
+e296048811.032663
+r1
+xCompileXIB
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhoneViewController.xib
+lSLF07#2@42"CompileXIB OAuthOniPhoneViewController.xib296048805#296048811#0(0"0(0#0#104"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhoneViewController.xib8654003200#712"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/OAuthOniPhoneViewController.nib /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhoneViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app.dSYM /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/OAuthOniPhone
+r0
+
+CLd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/OAuthOniPhone normal i386
+r0
+
+CProcessInfoPlistFile /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/Info.plist OAuthOniPhone-Info.plist
+s296048805.814084
+e296048805.844370
+r1
+xProcessInfoPlistFile
+x/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/Info.plist
+xOAuthOniPhone-Info.plist
+lSLF07#2@32"Process OAuthOniPhone-Info.plist296048805#296048805#0(0"0(0#0#97"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhone-Info.plist8649215424#599"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OAuthOniPhone-Info.plist -genpkginfo /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app/Info.plist0#
+
+CProcessPCH /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-exlegxgrxzyvfggvbgpblcjpwjoh/OAuthOniPhone_Prefix.pch.gch OAuthOniPhone_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s296048811.051231
+e296048812.586827
+r1
+xProcessPCH
+x/var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-exlegxgrxzyvfggvbgpblcjpwjoh/OAuthOniPhone_Prefix.pch.gch
+xOAuthOniPhone_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile OAuthOniPhone_Prefix.pch296048811#296048812#0(0"0(0#0#97"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhone_Prefix.pch8653832704#2193"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhone_Prefix.pch -o /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-exlegxgrxzyvfggvbgpblcjpwjoh/OAuthOniPhone_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch.gch OAuthOniPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296048811.049804
+e296048815.124262
+r1
+xProcessPCH
+x/var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch.gch
+xOAuthOniPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile OAuthOniPhone_Prefix.pch296048811#296048815#0(0"0(0#0#97"/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhone_Prefix.pch8642661824#2247"    cd /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-generated-files.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-own-target-headers.hmap -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-all-target-headers.hmap -iquote /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/OAuthOniPhone-project-headers.hmap -F/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/include -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources/i386 -I/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/OAuthOniPhone.build/Debug-iphonesimulator/OAuthOniPhone.build/DerivedSources -c /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhone_Prefix.pch -o /var/folders/-6/-60-T9rsGLCXblmxfnN4o++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OAuthOniPhone_Prefix-gbadqyofgreerffnytkinzhtgvqs/OAuthOniPhone_Prefix.pch.gch0#
+
+CTouch /Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/build/Debug-iphonesimulator/OAuthOniPhone.app
+r0
+

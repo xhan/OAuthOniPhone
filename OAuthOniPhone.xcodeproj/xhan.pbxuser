@@ -10,6 +10,8 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 719CE98E11A5540500B53E46 /* OAuthOniPhone */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* OAuthOniPhone */;
+		addToTargets = (
+		);
 		codeSenseManager = 719CE99F11A5541100B53E46 /* Code sense */;
 		executables = (
 			719CE98E11A5540500B53E46 /* OAuthOniPhone */,

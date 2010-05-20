@@ -277,6 +277,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -300,7 +301,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>331 180 788 504 0 0 1280 778 </string>
+						<string>506 177 788 504 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -337,7 +338,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {580, 277}}</string>
 								<key>RubberWindowFrame</key>
-								<string>331 180 788 504 0 0 1280 778 </string>
+								<string>506 177 788 504 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -357,7 +358,7 @@
 								<key>Frame</key>
 								<string>{{0, 282}, {580, 181}}</string>
 								<key>RubberWindowFrame</key>
-								<string>331 180 788 504 0 0 1280 778 </string>
+								<string>506 177 788 504 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -525,7 +526,7 @@
 		<string>/Users/xhan/Codes/iphone/FunctionsTestCase/testSinaT_Oauth/OAuthOniPhone/OAuthOniPhone.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>331 180 788 504 0 0 1280 778 </string>
+	<string>506 177 788 504 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
