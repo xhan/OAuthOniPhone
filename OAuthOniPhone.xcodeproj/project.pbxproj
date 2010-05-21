@@ -29,6 +29,9 @@
 		719CE9E511A557F300B53E46 /* NSMutableURLRequest+Parameters.m in Sources */ = {isa = PBXBuildFile; fileRef = 719CE9D711A557F300B53E46 /* NSMutableURLRequest+Parameters.m */; };
 		719CE9E611A557F300B53E46 /* NSURL+Base.m in Sources */ = {isa = PBXBuildFile; fileRef = 719CE9D911A557F300B53E46 /* NSURL+Base.m */; };
 		719CE9EA11A557FF00B53E46 /* Base64Transcoder.c in Sources */ = {isa = PBXBuildFile; fileRef = 719CE9E911A557FF00B53E46 /* Base64Transcoder.c */; };
+		719CEA0111A55AC000B53E46 /* OAuthEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 719CEA0011A55AC000B53E46 /* OAuthEngine.m */; };
+		719CEA2F11A566E500B53E46 /* OAuthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 719CEA2D11A566E500B53E46 /* OAuthViewController.m */; };
+		719CEA3011A566E500B53E46 /* OAuthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 719CEA2E11A566E500B53E46 /* OAuthViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -74,7 +77,12 @@
 		719CE9D911A557F300B53E46 /* NSURL+Base.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSURL+Base.m"; sourceTree = "<group>"; };
 		719CE9E811A557FF00B53E46 /* Base64Transcoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Base64Transcoder.h; sourceTree = "<group>"; };
 		719CE9E911A557FF00B53E46 /* Base64Transcoder.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Base64Transcoder.c; sourceTree = "<group>"; };
-		719CE9EB11A5582300B53E46 /* ReadMe.txt.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt.md; sourceTree = "<group>"; };
+		719CE9EB11A5582300B53E46 /* ReadMe.OAuthConsumer.txt.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.OAuthConsumer.txt.md; sourceTree = "<group>"; };
+		719CE9FF11A55AC000B53E46 /* OAuthEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OAuthEngine.h; sourceTree = "<group>"; };
+		719CEA0011A55AC000B53E46 /* OAuthEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OAuthEngine.m; sourceTree = "<group>"; };
+		719CEA2C11A566E500B53E46 /* OAuthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OAuthViewController.h; sourceTree = "<group>"; };
+		719CEA2D11A566E500B53E46 /* OAuthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OAuthViewController.m; sourceTree = "<group>"; };
+		719CEA2E11A566E500B53E46 /* OAuthViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OAuthViewController.xib; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* OAuthOniPhone-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "OAuthOniPhone-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -114,7 +122,8 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				719CE9A011A5577B00B53E46 /* OAuthSRC */,
+				719CE9FE11A55A6000B53E46 /* OAuthEngine */,
+				719CE9A011A5577B00B53E46 /* OAuthConsumer */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -153,16 +162,16 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		719CE9A011A5577B00B53E46 /* OAuthSRC */ = {
+		719CE9A011A5577B00B53E46 /* OAuthConsumer */ = {
 			isa = PBXGroup;
 			children = (
 				719CE9E711A557FF00B53E46 /* Crypto */,
 				719CE9D311A557F300B53E46 /* Cocoa Categories */,
 				719CE9D111A557F300B53E46 /* Protocols */,
 				719CE9BB11A557F300B53E46 /* Classes */,
-				719CE9EB11A5582300B53E46 /* ReadMe.txt.md */,
+				719CE9EB11A5582300B53E46 /* ReadMe.OAuthConsumer.txt.md */,
 			);
-			name = OAuthSRC;
+			name = OAuthConsumer;
 			sourceTree = "<group>";
 		};
 		719CE9BB11A557F300B53E46 /* Classes */ = {
@@ -223,6 +232,18 @@
 			path = Crypto;
 			sourceTree = "<group>";
 		};
+		719CE9FE11A55A6000B53E46 /* OAuthEngine */ = {
+			isa = PBXGroup;
+			children = (
+				719CE9FF11A55AC000B53E46 /* OAuthEngine.h */,
+				719CEA0011A55AC000B53E46 /* OAuthEngine.m */,
+				719CEA2C11A566E500B53E46 /* OAuthViewController.h */,
+				719CEA2D11A566E500B53E46 /* OAuthViewController.m */,
+				719CEA2E11A566E500B53E46 /* OAuthViewController.xib */,
+			);
+			name = OAuthEngine;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -267,6 +288,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* OAuthOniPhoneViewController.xib in Resources */,
+				719CEA3011A566E500B53E46 /* OAuthViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +316,8 @@
 				719CE9E511A557F300B53E46 /* NSMutableURLRequest+Parameters.m in Sources */,
 				719CE9E611A557F300B53E46 /* NSURL+Base.m in Sources */,
 				719CE9EA11A557FF00B53E46 /* Base64Transcoder.c in Sources */,
+				719CEA0111A55AC000B53E46 /* OAuthEngine.m in Sources */,
+				719CEA2F11A566E500B53E46 /* OAuthViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
